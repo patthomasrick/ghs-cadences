@@ -8,5 +8,6 @@ All cadences are in the "Cadences" folder.
 -	`cadence-2.pdf` is the tenors part
 -	`cadence-3.pdf` is the bass part
 -	`cadence-4.pdf` is the cymbals part
+-	`cadence.ly` is the "code" that was used to write the sheet music. Learn [Lilypond](http://lmgtfy.com/?q=Lilypond) if you want to edit/write your own sheet music for free.
 
 Enjoy my hard work.
